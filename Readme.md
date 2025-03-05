@@ -1,0 +1,2 @@
+Vocalearn
+this is a project for a vocal learning website where we can hire a professional vocal coach. please use Java springboot for the framework. this project will be a simple web application that allows users to search for vocal coaches, view their profiles, and do a payment based on status only. we hope you enjoy the progress and happy coding fellas!!!
